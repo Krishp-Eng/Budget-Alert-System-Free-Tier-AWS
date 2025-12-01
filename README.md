@@ -113,11 +113,8 @@ terraform apply -var="budget_limit=100"
 terraform apply -var="enable_automation=false"
 ```
 
-## 💡 **How It Works**
+## **How It Works**
 
 ```
 AWS Spending → Budget Alert → SNS → Email + Lambda → Stop EC2/RDS
 ```
-
-Simple, effective cost protection! 
->>>>>>> (Add README file)
