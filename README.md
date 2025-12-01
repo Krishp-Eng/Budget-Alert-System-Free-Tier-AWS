@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # Budget-Alert-System-Free-Tier-AW
-=======
-# Budget-Alert-System-Free-Tier-AWS
+
 
 **Simple AWS cost protection:**
 1. Get email alerts when spending hits 80% of your budget
